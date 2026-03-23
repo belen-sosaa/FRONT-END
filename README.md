@@ -17,3 +17,4 @@
     git add . ==> prepara los archivos (stagging)
     git commit -m "Comentario de lo realizado" ==> crea un punto de guardado
     git push origin main ==> sube los archivos a GH
+    
